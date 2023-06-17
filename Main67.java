@@ -1,5 +1,9 @@
 import java.util.Random;
-
+//Autorzy:Bartosz Dembowski,Elon Musk
+/*To jest program wojny generalow ktory randomowo wybiera ilosc zolnierzy poszczegolnych zolnierzy ktorzy chodza na manewry a co 5 runde
+ide na wojne na ktorej pokazuje wygranego w kazdej wojnie general przegrany traci 10% swojego zlota na koniec podaje zwyciezsce calej gry
+ktora trwa 20 rund.
+*/
 public class Main67 {
     public static void main(String[] args) {
         Random random = new Random();
